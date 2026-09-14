@@ -27,7 +27,6 @@ bancos de dados e fundamentos de desenvolvimento de software.
 - Banco de Dados
 - Estrutura de Dados
 - Linux
-- Git e GitHub
 - Lógica de Programação
 
 ## Formação e estudos
